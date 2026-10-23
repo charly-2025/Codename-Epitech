@@ -16,10 +16,6 @@ Two sides of LLM security. **Attack**: a set of prompts that try to make an agen
 
 `Python` · `Ollama` · `LLM` · `Prompt engineering`
 
-## Team
-
-- Charly Richard-Fromont (solo project)
-
 ---
 
 More of my work on my [portfolio](https://charly-2025.github.io/myPortfolio/).
