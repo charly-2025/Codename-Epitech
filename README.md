@@ -66,4 +66,4 @@ attacks/      attack prompts, one technique per file
 
 ---
 
-More of my work on my [portfolio](https://charly-2025.github.io/myPortfolio/).
+More of my work on my [portfolio](https://charly.richard-fromont.fr/).
